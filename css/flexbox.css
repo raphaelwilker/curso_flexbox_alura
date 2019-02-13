@@ -32,7 +32,8 @@
 /*Course Map*/
 .rodapePrincipal-navMap-list{
 	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
+	/*flex-direction: column;
+	flex-wrap: wrap;*/
+	flex-flow: column wrap;
 	height: 250px;
 }
