@@ -37,3 +37,14 @@
 	flex-flow: column wrap;
 	height: 250px;
 }
+
+/*Courses*/
+.conteudoPrincipal-cursos{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link{
+	width: 23%;
+    margin-bottom: 1%;
+}
